@@ -1,0 +1,4 @@
+DB_USERNAME="master"
+DB_PASSWORD="shivam19"
+DB_NAME="hw1"
+DB_HOST="localhost"
